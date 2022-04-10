@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.944" height="29.221" viewBox="0 0 22.944 29.221">
+  <g id="Group_1" data-name="Group 1" transform="translate(-1258.346 -1078.008)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="21.544" height="27.821" rx="4.176" transform="translate(1259.046 1078.708)" fill="none" stroke="#030504" stroke-miterlimit="10" stroke-width="1.4"/>
+    <path id="Path_1" data-name="Path 1" d="M1281.36,1088.844a.793.793,0,1,0,0-1.587h-6.876a.793.793,0,0,0,0,1.587h2.381a1.847,1.847,0,0,1,1.765,1.323h-4.145a.793.793,0,0,0,0,1.587h3.9a1.85,1.85,0,0,1-1.515.793h-2.381a.794.794,0,0,0-.447,1.449l5.819,3.967a.794.794,0,1,0,.895-1.312l-3.7-2.523a3.432,3.432,0,0,0,3.071-2.375h1.24a.793.793,0,1,0,0-1.587h-1.112a3.414,3.414,0,0,0-.5-1.323Z" transform="translate(-8.103 -4.731)" fill="#040505"/>
+    <line id="Line_1" data-name="Line 1" x2="12.488" transform="translate(1263.574 1096.766)" fill="none" stroke="#030504" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+    <line id="Line_2" data-name="Line 2" x2="12.488" transform="translate(1263.574 1101.117)" fill="none" stroke="#030504" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.4"/>
+  </g>
+</svg>

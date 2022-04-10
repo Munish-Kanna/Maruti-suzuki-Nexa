@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Marvel:ital,wght@0,700;1,400&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body .nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+/* Header Section */
+.header__top{
+    background-color: rgb(247, 242, 242);
+}
+
+.ms__logo{
+    margin-right: 10px;
+}
+.ms__logo img{
+    width: 200px;
+}
+
+.header__bar{
+    font-size: 13px;
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__bar li a{
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-right: 1px solid #8b8b8b;
+    padding: 0 10px;
+    display: block;
+}
+
+.header__bar li a:hover{
+    color: black;
+    background-color: rgb(240, 240, 240);
+}
+/* End of Header Section */
+
+/* nav Section */
+
+/* Media Query*/
+
+@media screen and (max-width: 1200px) {
+    
+    body .navigation__menu{
+        font-size: 10px;
+        font-weight: 600;
+    }
+    
+}
+/* End of Media Query*/
+
+.navigation__menu{
+    font-size: 13px;
+    font-weight: 600;
+}
+
+.navigation__menu li a{
+    color: #000000;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-right: 1px solid #8b8b8b;
+    padding: 0 10px;
+    display: block;
+}
+
+.navigation__menu li a:hover{
+    color: black;
+    background-color: rgb(240, 240, 240);
+}
+/* End of nav Section */
+
+/* Carousel Section */
+.carousel-caption {
+    position: absolute;
+    right: auto;
+    bottom: 17rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+.carousel-caption span{
+    font-size: 22px;
+    color: rgb(180, 180, 180);
+
+}
+
+.carousel-caption button{
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    font-weight: 600;
+}
+
+/* End of Carousel Section */
+
+/* Info Cards Section*/
+
+.explore__more .row{
+    border: 1px solid grey;
+}
+
+.explore__more a{
+    color: black;
+    text-decoration: none;
+}
+
+.explore__more a:hover{
+    color: black;
+}
+.explore__more .dealer{
+    transition: transform .8s;
+}
+
+.explore__more .dealer:hover{
+    transform: scale(1.1);
+}
+
+
+/* End of Info Cards Section*/
+
+/* Footer Section */
+.footer__bottom{
+    background-color: rgb(0, 0, 0);
+    margin-top: 10px;
+    color: white;
+}
+
+.footer__bottom .row{
+    padding: 30px 0;
+    justify-content: center;
+    font-family: PT Sans Narrow, sans-serif;
+}
+
+.row h5{
+    font-weight: 600;
+}
+
+.row ul li{
+    padding: 10px 0;
+}
+
+.row ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.footer__bottom a:hover{
+    border-bottom: 1px solid white;
+    
+}
+/* End of Footer Section */
